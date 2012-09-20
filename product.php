@@ -36,10 +36,10 @@
                         <div class="productImageBox">
                             <div class="productGreatImage"></div>
                             <div class="productSmallImageRow">
-                                <div class="productSmallImage"></div>
-                                <div class="productSmallImage"></div>
-                                <div class="productSmallImage"></div>
-                                <div class="productSmallImage"></div>
+                                <div class="productSmallImage">1</div>
+                                <div class="productSmallImage">2</div>
+                                <div class="productSmallImage">3</div>
+                                <div class="productSmallImage">4</div>
                             </div>
                         </div>
                         <div class="productInformation"></div>
