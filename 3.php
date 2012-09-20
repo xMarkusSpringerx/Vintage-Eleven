@@ -4,7 +4,7 @@
         <META HTTP-EQUIV="content-type" CONTENT="text/html; charset=utf-8">
         <link href="../style/css/reset.css" media="screen, projection" rel="stylesheet" type="text/css" />
         <link href="./style/css/black.css" rel="stylesheet" type="text/css">
-        <title>First Design | Vintage Shop</title>
+        <title>First Design | Vintage Online Shop</title>
     </head>
 
     <body>
