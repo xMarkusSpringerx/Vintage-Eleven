@@ -1,0 +1,178 @@
+@CHARSET "UTF-8";
+
+    body {
+        background-image: url('./7.jpg');
+    }
+    
+    .innerBox {
+        width: 900px;
+        margin: 0px auto;
+        color: black;
+    }
+    
+    .backgroundbox {
+        width: 1000px;
+        margin: 0px auto;
+        background: white;
+    }
+    
+    .payOptions {
+        height: 20px;
+        color: white;
+        position: relative;
+        background: black;
+    }
+    
+    .vintageElevenLogo {
+        height: 100px;
+        text-align: center;
+        font-size: 35px;
+    }
+    .menuBarInner {
+        height: 30px;
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+        padding: 5px;
+        padding-left: 25px;
+    }
+    .menuButton {
+        float: left;
+        width: 100px;
+        margin-top: 3px;
+        font-size: 17px;
+        text-align: center;
+        border-left: 1px solid black;
+        text-decoration: none;
+        color: black;
+    }
+    .firstMenuButton {
+        border-left: none !important;
+    }
+    
+    .productBoxInner {
+        padding: 25px 0;
+        display: block;
+    }
+    
+    .productRow {
+        height: 252px;
+        padding: 25px 0px;
+        display: block;
+    }
+    
+    .product {
+        height: 250px;
+        width: 198px;
+        float: left;
+        border: 1px solid black;
+        margin:0 50px;
+    }
+    
+
+    .product a {
+        display: block;
+    }
+
+    .productPicture {
+        position: relative;
+        width: 198px;
+        height: 210px;
+        opacity: 0.8;
+        background-image: url(./7.jpg);
+    }
+    
+    .productInfo {
+        background: white;
+        height: 39px;
+        border-top: 1px solid #ddd;
+    }
+    
+    .productInfoInner {
+        padding: 8px 0 0 5px;
+    }
+    
+    .productName {
+        float: left;
+        font-size: 15px;
+        font-weight: bold;
+        width: 100px;
+        text-align: center;
+    }
+
+    .productName a {
+        color: black;
+        text-decoration:none;
+    }
+
+
+    .productPrice {
+        float: right;
+        background-color: black;
+        color: white;
+        border-radius: 2px 0px 0px 2px;
+        height: 24px;
+        font-size: 14px;
+        width: 75px;
+        box-shadow: -1px 0px 5px #000;
+    }
+
+    .productPrice a {
+        color: white;
+        text-decoration:none;
+        display: block;
+    }
+    
+    .productPrice p {
+        margin-top: 4px;
+        text-align: center;
+    }
+    
+    .productLink {
+        color: #000;
+        display: block;
+    }
+    
+    .menuBarSocial {
+        float: right;
+    }
+    .menuBarSocial a {
+        width: 32px;
+        height: 32px;
+        display: block;
+        float: left;
+        margin: 0 5px
+    }
+    
+    .menuBarSocial .facebook {
+        background-image: url(./images/social/black/Facebook.png);
+    }
+    
+    .menuBarSocial .facebook:hover {
+        background-image: url(./images/social/colored/Facebook.png);
+    }
+    
+    .menuBarSocial .twitter {
+        background-image: url(./images/social/black/Twitter.png);
+        background-position: 0px -1px;
+    }
+    
+    
+    .menuBarSocial .twitter:hover {
+        background-image: url(./images/social/colored/Twitter.png);
+        background-position: 0px -1px;
+    }
+    
+    .menuBarSocial .googleplus {
+        background-image: url(./images/social/black/Google+.png)
+    }
+    
+    
+    .menuBarSocial .googleplus:hover {
+        background-image: url(./images/social/colored/Google+.png)
+    }
+    
+    .footer {
+        height: 50px;
+        margin: 0 50px;
+        background: #000;
+    }

@@ -1,0 +1,215 @@
+@CHARSET "UTF-8";
+
+    body {
+        background-image: url('../7.jpg');
+    }
+    
+    a {
+        text-decoration: none;
+        color: black;
+    }
+
+    .backgroundbox {
+        width: 1000px;
+        margin: 0px auto;
+        background: #fff;
+    }
+
+    .backgroundBoxInner {
+        width: 900px;
+        margin: 10px auto 0 auto;
+    }
+
+    /* Header START */
+
+    .header .topSection {
+        height: 50px;
+        background: #000;
+    }
+
+    .header .logoSection {
+        height: 250px;
+        background-image: url('../images/shopHeader.png') ;
+    }
+
+    .header .menuSection {
+        height: 50px;
+        width: 100%;
+        border-top: 1px solid #ccc;
+        border-bottom: 1px solid #ccc;
+    }
+
+    .header .menuBar {
+        width: 800px;
+        height: 50px;
+        margin: 0px auto;
+        font-size: 20px;
+    }
+
+    .header .menuBar a {
+        float: left;
+        padding: 15px 25px;
+    }
+
+    .header .menuBar a:hover {
+        border-bottom: 1px solid #000;
+    }
+
+    /* Header END */
+    
+    /* Content START */
+    .content {
+        padding-bottom: 50px;
+    }
+    
+    .content .productRow {
+        width: 900px;
+        height: 250px;
+        margin-top: 50px;
+    }
+    
+    /* Product */
+
+    .product {
+        height: 248px;
+        width: 198px;
+        float: left;
+        border: 1px solid #000;
+        margin: 0px 50px;
+    }
+    
+    .product a {
+        display: block;
+    }
+
+    .productPicture {
+        height: 199px;
+        width: 198px;
+    }
+    
+    .productInfo {
+        height: 40px;
+        padding: 5px 0 4px 5px;
+        background-color: #fff;
+    }
+    
+    .productTitle {
+        float: left;
+        width: 119px;
+        height: 30px;
+        margin: 5px 0;
+        overflow: hidden;
+    }
+    
+   .productTitle a {
+        line-height: 30px;
+        text-align: center;
+        font-size: 20px;
+   }
+    
+    .productPrice {
+        float: left;
+        width: 74px;
+        background-color: #000;
+        height: 30px;
+        margin: 5px 0;
+    }
+    
+    .productPrice a {
+        color: #fff;
+        margin: 5px 2px;
+        height: 20px;
+        font-size: 16px;
+        text-align: center;
+        line-height: 20px;
+    }
+    
+    /* Content END */
+    
+    
+    
+    /* Footer START */
+    
+    .footer {
+        width: 890px;
+        height: 40px;
+        padding: 5px;
+        background-color: #000;
+    }
+    
+    .footer .links {
+        width: 595px;
+        height: 40px;
+        float: left;
+    }
+    
+    
+    .footer .links p:first-child {
+        border-left: none;
+        padding-left: 45px;
+    }
+    
+    .footer .links p {
+        border-left: 1px solid #fff;
+        display: block;
+        float: left;
+        padding: 0 15px;
+        margin: 13px 0px;
+    }
+    
+    .footer .links p:hover {
+        text-decoration: underline;
+    }
+    
+    .footer a {
+        color: #fff;
+        text-align: center;
+        line-height: 14px;
+        font-size: 14px;
+    }
+    
+    
+    .footer .socialIcons {
+        float: right;
+        width: 295px;
+        height: 33px;
+        margin: 3.5px 0;
+    }
+    
+    .footer .socialIcons p {
+        float: right;
+        margin-right: 10px;
+    }
+    
+    .footer .socialIcons p:first-child {
+        margin-right: 50px;
+    }
+    
+    .footer .socialIcon a{
+        height: 32px;
+        width: 33px;
+        display: block;
+    }
+    
+    
+    .footer .facebook a{
+        background-image: url('../images/social/white/facebook.png');
+    }
+    
+    .footer .socialIcons .googleplus a{
+        background-image: url('../images/social/white/google+.png');
+    }
+    
+    .footer .socialIcons .twitter a{
+        background-image: url('../images/social/white/twitter.png');
+        height: 33px !important;
+    }
+    /* Footer END */
+    
+    .copyright {
+        color: #fff;
+        width: 800px;
+        margin: 5px auto;
+        text-align: right;
+        font-size: 12px;
+    }
