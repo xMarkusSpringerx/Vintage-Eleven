@@ -30,20 +30,28 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="content">
-                    <div class="productBox">
-                        <div class="productImageBox">
-                            <div class="productGreatImage"></div>
-                            <div class="productSmallImageRow">
-                                <div class="productSmallImage">1</div>
-                                <div class="productSmallImage">2</div>
-                                <div class="productSmallImage">3</div>
-                                <div class="productSmallImage">4</div>
+                    <div class="contentInformationContainer">
+                        <div class="imageContainer">
+                            <div>
+                                <a href="#111"><img src="/images/products/tee-shirt-fame-06.jpeg" class="productInformationImage"/></a>
+                            </div>
+                            <div class="productSmallImages">
+                                <a href="#111"><img src="/images/products/tee-shirt-fame-06.jpeg" class="productSmallInformationImage"/></a>
+                                <a href="#111"><img src="/images/products/tee-shirt-fame-06.jpeg" class="productSmallInformationImage"/></a>
+                                <a href="#111"><img src="/images/products/tee-shirt-fame-06.jpeg" class="productSmallInformationImage"/></a>
+                                <a href="#111"><img src="/images/products/tee-shirt-fame-06.jpeg" class="productSmallInformationImage"/></a>
+                                <a href="#111"><img src="/images/products/tee-shirt-fame-06.jpeg" class="productSmallInformationImage"/></a>
+                                <a href="#111"><img src="/images/products/tee-shirt-fame-06.jpeg" class="productSmallInformationImage"/></a>
                             </div>
                         </div>
-                        <div class="productInformation"></div>
+                        <div class="productInformationContainer">
+                            <div class="productInformationHeadline">Hiiii</div>
+                            <div class="productInformationSubline"></div>
+                        </div>
                     </div>
+                    <p style="clear:left" />
                 </div>
                 
                 <div class="footer">

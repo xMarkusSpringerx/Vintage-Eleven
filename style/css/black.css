@@ -175,32 +175,40 @@
         line-height: 20px;
     }
 
-    .productBox {
-        padding: 50px 50px;
+    /** Product Info Page START **/
+
+    .imageContainer {
+        float: left;
+        height: 500px;
     }
-    
-    .productGreatImage {
-        height: 300px;
-        width: 228px;
+
+    .productInformationImage {
+        width: 368px;
+        height: 450px;
         border: 1px solid #000;
     }
 
-    .productSmallImageRow {
-        width: 250px;
-        height: 50px;
+    .contentInformationContainer {
+        padding: 50px;
+    }
+
+    .productSmallImages {
+        float: left;
         margin-top: 10px;
     }
 
-    .productSmallImage {
-        width: 48px;
-        height: 48px;
-        border: 1px solid #000;
-        float: left;
+    .productSmallImages a:first-child {
+        margin-left: 0px;
+    }
+
+    .productSmallImages a {
         margin-left: 10px;
     }
 
-    .productSmallImage:first-child {
-        margin-left: 0px;
+    .productSmallInformationImage {
+        width: 48px;
+        height: 48px;
+        border: 1px solid #000;
     }
 
     /* Content END */
