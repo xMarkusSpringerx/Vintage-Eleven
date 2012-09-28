@@ -49,7 +49,7 @@
 
                         <div class="productInformationContainer">
                             <div class="productInformationHeadline">
-                                <p>Triangle Shirt</p>
+                                <p>Triangle Shirt222</p>
                             </div>
                             <div class="productInformationPrice">
                                 <p>222,22  &euro;<p>

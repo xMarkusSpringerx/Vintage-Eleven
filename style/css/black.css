@@ -217,30 +217,26 @@
         width: 400px;
     }
 
-    .productInformationHeadline p {
-        margin: 10px 0;
-        font-size: 20px;
-        text-align: center;
-        font-weight: bold;
+    .productInformationHeadline, .productInformationPrice {
+        height: 30px;
+        margin: 0px 0px;
+        background-color: #000000;
+        color: #ffffff;
+        float: left;
     }
 
     .productInformationHeadline {
         width: 325px;
-        float: left;
-        height: 30px;
+        color: #000 !important;
+        background-color: #fff !important;
     }
 
     .productInformationPrice {
-        float: left;
-        width: 75px;
-        background-color: #000000;
-        height: 30px;
-        margin: 5px 0;
-        color: #ffffff;
+        width: 74px;
+        border-left: 1px solid #ffffff;
     }
 
-    .productInformationPrice p{
-        color: white;
+    .productInformationPrice p, .productInformationHeadline p {
         margin: 5px 2px;
         height: 20px;
         font-size: 16px;
