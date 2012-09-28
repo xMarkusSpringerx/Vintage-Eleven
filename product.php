@@ -46,9 +46,28 @@
                                 <a href="#111"><img src="/images/products/tee-shirt-fame-06.jpeg" class="productSmallInformationImage"/></a>
                             </div>
                         </div>
+
                         <div class="productInformationContainer">
-                            <div class="productInformationHeadline">Hiiii</div>
-                            <div class="productInformationSubline"></div>
+                            <div class="productInformationHeadline">
+                                <p>Triangle Shirt</p>
+                            </div>
+                            <div class="productInformationPrice">
+                                <p>222,22  &euro;<p>
+                            </div>
+                            <div class="productInformationSubline">
+                                Leo at its best! Seit vielen Jahren ist der Animalprint ein Klassiker in der Modewelt. 
+                                In Kombination mit dem originellen Logo wirkt der Mustermix nicht nur ästhetisch und geschmacksvoll,
+                                sondern betont gleichzeitig die kraftvolle und wilde Seite, die in jedem von uns steckt.
+                            </div>
+                            <div class="productInformationPoints">
+                                <li>weiche Baumwolle</li>
+                                <li>Atmungsaktiv: ja</li>
+                                <li>Länge: mittel</li>
+                                <li>Passform: normal</li>
+                                <li>Gesamtlänge: 70 cm bei Größe M</li>
+                                <li>Pflegehinweise: nicht Trockner geeignet</li>
+                                <li>Pflegeleicht</li>
+                            </div>
                         </div>
                     </div>
                     <p style="clear:left" />

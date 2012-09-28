@@ -211,6 +211,58 @@
         border: 1px solid #000;
     }
 
+    .productInformationContainer {
+        margin-left: 25px;
+        float: left;
+        width: 400px;
+    }
+
+    .productInformationHeadline p {
+        margin: 10px 0;
+        font-size: 20px;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .productInformationHeadline {
+        width: 325px;
+        float: left;
+        height: 30px;
+    }
+
+    .productInformationPrice {
+        float: left;
+        width: 75px;
+        background-color: #000000;
+        height: 30px;
+        margin: 5px 0;
+        color: #ffffff;
+    }
+
+    .productInformationPrice p{
+        color: white;
+        margin: 5px 2px;
+        height: 20px;
+        font-size: 16px;
+        text-align: center;
+        line-height: 20px;
+    }
+
+    .productInformationSubline {
+        float: left;
+        margin-top: 20px;
+        font: 12px/1.55 Arial, Helvetica, sans-serif;
+    }
+
+    .productInformationPoints {
+        float: left;
+        margin-top: 25px;
+        margin-left: 25px;
+        font: 12px/1.55 Arial, Helvetica, sans-serif;
+        list-style: circle;
+
+    } 
+
     /* Content END */
     
     
