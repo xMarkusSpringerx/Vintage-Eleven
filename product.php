@@ -51,15 +51,19 @@
                             <div class="productInformationHeadline">
                                 <p>Triangle Shirt </p>
                             </div>
-                            <!-- <div class="productInformationPrice"> -->
-<!--                                 <p>222,22  &euro;<p>
+                            <div class="productInformationPrice">
+                                <p>222,22  &euro;</p>
                             </div>
- -->                        <div class="productInformationSubline">
+                        <div class="productInformationText">
                                 Leo at its best! Seit vielen Jahren ist der Animalprint ein Klassiker in der Modewelt. 
                                 In Kombination mit dem originellen Logo wirkt der Mustermix nicht nur ästhetisch und geschmacksvoll,
                                 sondern betont gleichzeitig die kraftvolle und wilde Seite, die in jedem von uns steckt.
                             </div>
-                            <div class="productInformationPoints">
+
+                            <div class="productInformationSubline">
+                                <p>Produktdetails:</p>
+                            </div>
+                            <div class="productInformationProductDetails">
                                 <li>weiche Baumwolle</li>
                                 <li>Atmungsaktiv: ja</li>
                                 <li>Länge: mittel</li>
@@ -68,8 +72,9 @@
                                 <li>Pflegehinweise: nicht Trockner geeignet</li>
                                 <li>Pflegeleicht</li>
                             </div>
+
                             <div class="productInformationSize">
-                                <div class="productInformationSizeHeadline">
+                                <div class="productInformationSubline">
                                     <p>Wählen Sie Ihre Größe:</p>
                                 </div>
                                 <div class="productInformationSizebox">
@@ -79,6 +84,27 @@
                                     <div class="productInformationSizeContainer"><p><a href="#s">XL</a></p></div>
                                 </div>
                             </div>
+
+                            <div class="productInformationNumber">
+                                <div class="productInformationSubline">Anzahl:</div>
+                                <div class="productInformationNumberInput">
+                                    <input name="productInformationNumberInput" min="1" max="999" value="1" type="number"/>
+                                </div>
+                            </div>
+
+                            <div class="productInformationStatus">
+                                <div class="productInformationSubline">Status: </div>
+                                <div class="productInformationStatusText">
+                                    <p>3 Artikel verfügbar</p>
+                                </div>
+                            </div>
+
+                            <div class="productInformationCheckoutContainer">
+                                <div class="productInformationBuyButton">
+                                    <p>In den Warenkorb</p>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                     <p style="clear:left" />
