@@ -145,7 +145,7 @@
                                     <p><a href="#1">Lorem Ipsum</a></p>
                                 </div> 
                                 <div class="productPrice">
-                                    <p><a href="#1">22,22  &euro;</a></p>
+                                    <p><a href="#1">222,22  &euro;</a></p>
                                 </div>
                             </div>
                         </div>

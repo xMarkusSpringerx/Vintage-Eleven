@@ -49,12 +49,12 @@
 
                         <div class="productInformationContainer">
                             <div class="productInformationHeadline">
-                                <p>Triangle Shirt222</p>
+                                <p>Triangle Shirt </p>
                             </div>
-                            <div class="productInformationPrice">
-                                <p>222,22  &euro;<p>
+                            <!-- <div class="productInformationPrice"> -->
+<!--                                 <p>222,22  &euro;<p>
                             </div>
-                            <div class="productInformationSubline">
+ -->                        <div class="productInformationSubline">
                                 Leo at its best! Seit vielen Jahren ist der Animalprint ein Klassiker in der Modewelt. 
                                 In Kombination mit dem originellen Logo wirkt der Mustermix nicht nur ästhetisch und geschmacksvoll,
                                 sondern betont gleichzeitig die kraftvolle und wilde Seite, die in jedem von uns steckt.
@@ -67,6 +67,17 @@
                                 <li>Gesamtlänge: 70 cm bei Größe M</li>
                                 <li>Pflegehinweise: nicht Trockner geeignet</li>
                                 <li>Pflegeleicht</li>
+                            </div>
+                            <div class="productInformationSize">
+                                <div class="productInformationSizeHeadline">
+                                    <p>Wählen Sie Ihre Größe:</p>
+                                </div>
+                                <div class="productInformationSizebox">
+                                    <div class="productInformationSizeContainer"><p><a href="#s">S</a></p></div>
+                                    <div class="productInformationSizeContainer"><p><a href="#s">M</a></p></div>
+                                    <div class="productInformationSizeContainer"><p><a href="#s">L</a></p></div>
+                                    <div class="productInformationSizeContainer"><p><a href="#s">XL</a></p></div>
+                                </div>
                             </div>
                         </div>
                     </div>
