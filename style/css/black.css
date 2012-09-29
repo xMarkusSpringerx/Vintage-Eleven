@@ -335,14 +335,18 @@
     } 
 
     .productInformationBuyButton {
+        float: left;
         text-align: center;
         font-size: 14px;
         font-weight: bold;
         background: #000;
         color: #fff;
         padding: 10px 10px;
-        width: 180px;
-        margin-left: 200px;
+        width: 155px;
+    }
+
+    .productInformationBuyButton p {
+        text-align: center;
     }
 
     .productInformationCheckoutContainer {
@@ -351,6 +355,23 @@
         float: left;
         border-top: 1px solid #ccc;
         width: 400px;
+    }
+
+    .productInformationSocial {
+        float: left;
+        width: 225px;
+        padding-top: 7px;
+    }
+
+    .productInformationSocial .facebookButton {
+        float: left;
+        margin-top: 2px;
+    }    
+
+    .productInformationSocial .googleplus {
+        float: left;
+        margin-top: 2px;
+        margin-left: 15px;
     }
     /** Product Information Container START **/
 
@@ -365,7 +386,6 @@
         height: 40px;
         float: left;
     }
-    
     
     .footer .links p:first-child {
         border-left: none;

@@ -7,6 +7,17 @@
         <title>First Design | Vintage Online Shop</title>
     </head>
 
+
+    <script>
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/de_DE/all.js#xfbml=1&appId=305209196236450";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+
     <body>
         <div class="backgroundBox">
             <div class="backgroundBoxInner">
@@ -100,6 +111,14 @@
                             </div>
 
                             <div class="productInformationCheckoutContainer">
+                                <div class="productInformationSocial">
+                                    <div class="facebookButton">
+                                        <div class="fb-like" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true" data-font="arial"></div>
+                                    </div>
+                                    <div class="googleplus">
+                                        <div class="g-plusone" data-size="medium" data-href="http://design.vintageeleven.de/product.php"></div>
+                                    </div>
+                                </div>
                                 <div class="productInformationBuyButton">
                                     <p>In den Warenkorb</p>
                                 </div>
@@ -129,5 +148,13 @@
             </div>
         </div>
         <div class="copyright">&copy; 2012 Vintage Eleven. All Rights Reserved.</div>
+
+        <script type="text/javascript">
+            (function() {
+                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                po.src = 'https://apis.google.com/js/plusone.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+            })();
+        </script>
     </body>
 </html>
