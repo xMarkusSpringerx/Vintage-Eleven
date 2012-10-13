@@ -5,8 +5,7 @@
         <link href="../css/reset.css" media="screen, projection" rel="stylesheet" type="text/css" />
         <link href="./css/main2.css" rel="stylesheet" type="text/css">
         <title>First Design | Vintage Online Shop</title>
-    </head>
-
+    </head>sdafsdfasdfasfdasdfasadfsdfsadf
     <body>
         <div class="backgroundBox">
             <div class="backgroundBoxInner">
